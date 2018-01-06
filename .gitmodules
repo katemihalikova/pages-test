@@ -7,3 +7,12 @@
 [submodule "C"]
 	path = C
 	url = https://github.com/katemihalikova/pages-test.git
+[submodule "4426a42"]
+	path = 4426a42
+	url = git@github.com:katemihalikova/pages-test.git
+[submodule "69c16f6"]
+	path = 69c16f6
+	url = git@github.com:katemihalikova/pages-test.git
+[submodule "df25235"]
+	path = df25235
+	url = git@github.com:katemihalikova/pages-test.git
